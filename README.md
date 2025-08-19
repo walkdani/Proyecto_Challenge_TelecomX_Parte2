@@ -1,4 +1,6 @@
-# 📊 Análisis Predictivo de Cancelación de Clientes (Churn) - Telecom X
+# 📊 Análisis Predictivo de Cancelación de Clientes (Churn) - Telecom X PARTE 2
+
+ANALISTA DE DATOS: WALDIR RODRIGUEZ RIVERA
 
 Este repositorio contiene el desarrollo completo de un proyecto de análisis y modelado predictivo para identificar los factores que influyen en la cancelación de clientes (churn) en la empresa ficticia **Telecom X**.
 
@@ -60,12 +62,5 @@ El proyecto combina análisis estadístico, machine learning e interpretación d
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
----
 
-## 📬 Contacto
-
-Desarrollado por **Francisco Javier Alvarado Márquez**  
-Si tienes preguntas o sugerencias, puedes abrir un *issue* o contactarme directamente.
-
----
 
